@@ -83,7 +83,7 @@ Contributions are welcome! Here’s how you can contribute:
 3. Add your solution, ensuring it follows the structure and is well-documented.
 4. **Commit and push** your changes:
    ```bash
-   git commit -m "Added solution for [Problem Name]"
+   git commit -m "Added [platform name] [problem name]"
    git push origin feature/new-problem-solution
    ```
 5. Submit a **pull request** with a clear description of your changes.
