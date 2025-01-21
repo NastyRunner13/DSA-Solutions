@@ -46,8 +46,6 @@ Each folder directly contains the solution files, making it simple to navigate a
 The primary programming language used in this repository is:
 - **C++**
 
-Other languages may be added in the future based on problem requirements or contributions.
-
 ---
 
 ## How to Use
