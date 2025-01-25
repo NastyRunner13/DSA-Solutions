@@ -46,8 +46,6 @@ Each folder directly contains the solution files, making it simple to navigate a
 The primary programming language used in this repository is:
 - **C++**
 
-Other languages may be added in the future based on problem requirements or contributions.
-
 ---
 
 ## How to Use
@@ -83,7 +81,7 @@ Contributions are welcome! Here’s how you can contribute:
 3. Add your solution, ensuring it follows the structure and is well-documented.
 4. **Commit and push** your changes:
    ```bash
-   git commit -m "Added solution for [Problem Name]"
+   git commit -m "Added [platform name] [problem name]"
    git push origin feature/new-problem-solution
    ```
 5. Submit a **pull request** with a clear description of your changes.
